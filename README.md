@@ -1,4 +1,4 @@
-# RT-AC1200HP-ASUSWRT
+# RT-AC1200HP-AsusWRT
 
 RT-AC1200HP source code.
 
